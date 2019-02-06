@@ -1,2 +1,0 @@
-# hky
-fan of HuhKyungyoung
