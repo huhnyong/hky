@@ -1,13 +1,8 @@
 # 허경영(Huh Kyung young)
 Page of HuhKyungyoung
-<html>
-          
+<html>    
 <head>
-                      
-             <title>HKY페이지☆</title>
-          
-</head>
-          
+</head>       
 <body>
                       
              <h2>HKY에 대해 아라보자!<br>Page about Huh Kyung young!</h2>
@@ -22,5 +17,4 @@ Page of HuhKyungyoung
              <a href="https://www.youtube.com/channel/UCy3eNixQgJld165YDfRDRZg">허경영강연 해외자막송출 유튜브링크 연결하기(YouTube Link about Huh Kyung young with English subtitles)</a>                     
           
 </body>
-
 </html>
