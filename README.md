@@ -1,4 +1,4 @@
-# 허경영(Huh Kyung young)
+# 
 fan of HuhKyungyoung
 <html>
 
