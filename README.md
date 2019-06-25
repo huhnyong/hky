@@ -22,6 +22,6 @@ fan of HuhKyungyoung
 <img src="영상설명.png" width="90%">
 <img src="영상설명2.png" width="90%" height="80%">
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/slu-93T2b_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="95%" height="90%"></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/slu-93T2b_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="95%"></iframe>
 
 </body>
