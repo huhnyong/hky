@@ -30,6 +30,6 @@ Click on the English subtitle settings in the order 'Settings' > Subtitles > Eng
 (Other language also provided: 'Settings > Subtitles > Your language')
 </p>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/slu-93T2b_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/slu-93T2b_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="80%"></iframe>
 
 </body>
