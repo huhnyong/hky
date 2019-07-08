@@ -4,7 +4,7 @@ fan of HuhKyungyoung
 <body>
 밑에 리스트를 클릭하시면 관련 내용이 있는 페이지로 이동됩니다
 <ol>
-  <li><a href="hky2_트럼프증거_텍스트.html">허경영과 트럼프의 만남은 사실이다(It's real that Trump and Huh Kyung-young met)</a></li>
+  <li><a href="hky2_트럼프증거_텍스트.html" target="_blank">허경영과 트럼프의 만남은 사실이다(It's real that Trump and Huh Kyung-young met)</a></li>
   <li>허경영 책 목록들!(Books of Huh Kyung-young)</li>
 </ol>
   <audio src="m-flo_Miss You.mp3" controls autoplay></audio>
