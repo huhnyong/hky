@@ -1,9 +1,12 @@
 <br>
 fan of HuhKyungyoung
 <html>
-
 <body>
-
+밑에 리스트를 클릭하시면 관련 내용이 있는 페이지로 이동됩니다
+<ol>
+  <li><a href="hky2_트럼프증거_텍스트.html">허경영과 트럼프의 만남은 사실이다(It's real that Trump and Huh Kyung-young met)</a></li>
+  <li>허경영 책 목록들!(Books of Huh Kyung-young)</li>
+</ol>
   <audio src="m-flo_Miss You.mp3" controls autoplay></audio>
 
 <body background="배경수정3.png">
@@ -17,11 +20,6 @@ fan of HuhKyungyoung
 
 <a href="https://www.youtube.com/channel/UCy3eNixQgJld165YDfRDRZg" target="_blank"><img src="HKYTV 클릭.png"></a>
 
-<img src="증거자료1.png" width="100%">
-<img src="증거자료2.png" width="100%">
-<img src="영상설명.png" width="90%">
-<img src="영상설명2.png" width="85%" height="80%">
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/slu-93T2b_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="95%"></iframe>
 
 </body>
+
