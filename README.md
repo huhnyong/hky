@@ -1,5 +1,5 @@
 <br>
-<font size="1">밑 리스트를 클릭하면 관련 페이지로 이동됩니다<br>(If you click bottom list, you can go that's page)</font>
+<font size="1">밑 리스트를 클릭하면 관련 페이지로 이동됩니다(If you click bottom list, you can go that's page)</font>
 <html>
 <body>
 <ol>
