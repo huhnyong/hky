@@ -1,8 +1,7 @@
 <br>
-fan of HuhKyungyoung
+<font size="1">밑 리스트를 클릭하면 관련 페이지로 이동됩니다<br>(If you click bottom list, you can go that's page)</font>
 <html>
 <body>
-<font size="1">밑 리스트를 클릭하면 관련 페이지로 이동됩니다<br>(If you click bottom list, you can go that's page)</font>
 <ol>
   <li><a href="hky2_트럼프증거_텍스트.html" target="_blank">허경영과 트럼프의 만남은 사실이다(It's real that Trump and Huh Kyung-young met)</a></li>
   <li>허경영 책 목록들!(Books of Huh Kyung-young)</li>
