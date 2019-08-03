@@ -22,9 +22,9 @@
 .list{padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px;}
 .listwidth{text-align : center;height:7.5%;width:10.4%;padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px;}
 .listwidth2{height:9.5%;width:10%;padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px;}
-.sizeSmall{width:60%; height:65%;}
-.sizeNormal{width:70%; height:75%;}
-.sizeLarge{width:80%;height:85%;}
+.sizeSmall{width:80%; height:65%;}
+.sizeNormal{width:90%; height:75%;}
+.sizeLarge{width:95%;height:85%;}
 #red{color:red;}
 #black{color:black;}
 #white{color:white; text-shadow:1px 1px 0px #f40;text-align : center;}
