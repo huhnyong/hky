@@ -59,15 +59,15 @@ event.prevetnDefault();
 <tr class="tr1" id="listfontsize">
  
 <td class="listwidth" id="redbackground">
- <a href="computerhome.html" id="white"><b>허경영<br>페북·유튜브</b></a></td>
+ <a href="허경영홈.html" id="white"><b>허경영<br>페북·유튜브</b></a></td>
 <td class="listwidth" id="redbackground">
- <a href="컴활정보처리.html" id="white"><b>허경영·트럼프</b></a></td>
+ <a href="허경영트럼프.html" id="white"><b>허경영·트럼프</b></a></td>
 <td class="listwidth" id="redbackground">
- <a href="mos.html" id="white"><b>허경영 관련서적</b></a></td>
+ <a href="허경영책.html" id="white"><b>허경영 관련서적</b></a></td>
 <td class="listwidth" id="redbackground">
- <a href="컴퓨터프로그래밍언어.html" id="white"><b>허경영33공약</b></a></td>
+ <a href="허경영33공약.html" id="white"><b>허경영33공약</b></a></td>
 <td class="listwidth" id="tomatobackground">
- <a href="프로그래밍언어스크래치.html" id="white"><b>퀴즈&댓글</b></a></td>
+ <a href="퀴즈&댓글.html" id="white"><b>퀴즈&댓글</b></a></td>
 
 </tr>
 
