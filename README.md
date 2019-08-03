@@ -52,7 +52,7 @@ event.prevetnDefault();
 </script>
 
 <body background="배경수정.png">
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 <table class="tableheadandbody">
 
