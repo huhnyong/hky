@@ -22,9 +22,9 @@
 .list{padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px;}
 .listwidth{text-align : center;height:7.5%;width:10.4%;padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px;}
 .listwidth2{height:9.5%;width:10%;padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px;}
-.sizeSmall{width:60%; height:40%;}
-.sizeNormal{width:70%; height:50%;}
-.sizeLarge{width:80%;height:55%;}
+.sizeSmall{width:60%; height:65%;}
+.sizeNormal{width:70%; height:75%;}
+.sizeLarge{width:80%;height:85%;}
 #red{color:red;}
 #black{color:black;}
 #white{color:white; text-shadow:1px 1px 0px #f40;text-align : center;}
@@ -78,13 +78,13 @@ event.prevetnDefault();
 <div id="centercontent">
  <table class="centercontent" id="whitebackground">
 
-<a href="https://ko-kr.facebook.com/unhky/" target="_blank"><img src="허경영페이스북 클릭.png"></a>
+<a href="https://ko-kr.facebook.com/unhky/" target="_blank"><img class="sizeSmall" src="허경영페이스북 클릭.png"></a>
 
-<a href="https://www.youtube.com/channel/UCg3wU-Y3Aq8-0UAqYjXMCnw" target="_blank"><img src="허경영강연 클릭.png"></a>
+<a href="https://www.youtube.com/channel/UCg3wU-Y3Aq8-0UAqYjXMCnw" target="_blank"><img class="sizeSmall" src="허경영강연 클릭.png"></a>
 
-<a href="https://www.youtube.com/channel/UCA7LZMILVfSYGwHU7Cj3g6Q" target="_blank"><img src="허경영강연짤 클릭.png"></a>
+<a href="https://www.youtube.com/channel/UCA7LZMILVfSYGwHU7Cj3g6Q" target="_blank"><img class="sizeSmall" src="허경영강연짤 클릭.png"></a>
 
-<a href="https://www.youtube.com/channel/UCy3eNixQgJld165YDfRDRZg" target="_blank"><img src="HKYTV 클릭.png"></a>
+<a href="https://www.youtube.com/channel/UCy3eNixQgJld165YDfRDRZg" target="_blank"><img class="sizeSmall" src="HKYTV 클릭.png"></a>
 
 </table>
 </div>
