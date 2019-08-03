@@ -14,13 +14,20 @@
  <title>허경영 연결사이트</title>
 
 <style>
+  @media screen and (max-width: 800px) {
+ .tableheadandbody{
+  display:none;
+  }
+}
 #listfontsize{ font-size:1.0vw;}
 #textcenter{text-align : center;}
+  .tableheadandbody_mobile{border-spacing: 10px 10px; align:center; margin-left: auto; margin-right: auto; width:100%; height:95%; cellpadding:20px; cellspacing:10;}
 .tableheadandbody{border-spacing: 10px 10px; align:center; margin-left: auto; margin-right: auto; width:52%; height:95%; cellpadding:20px; cellspacing:10;}
 .tr1{padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px; text-align:center;}
 .tr2{padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px;}
 .list{padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px;}
 .listwidth{text-align : center;height:7.5%;width:10.4%;padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px;}
+  .listwidth_mobile{text-align : center;height:7.5%;width:20%;padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px;}
 .listwidth2{height:9.5%;width:10%;padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 10px/10px;}
 .sizeSmall{width:80%; height:65%;}
 .sizeNormal{width:90%; height:75%;}
@@ -107,6 +114,7 @@ event.prevetnDefault();
 
 </ol>
 </td>
+</table>
 
 
 
