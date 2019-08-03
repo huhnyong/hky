@@ -59,9 +59,9 @@ event.prevetnDefault();
 <tr class="tr1" id="listfontsize">
  
 <td class="listwidth" id="redbackground">
- <a href="computerhome.html" id="white"><b>허경영<br>페북&유튜브</b></a></td>
+ <a href="computerhome.html" id="white"><b>허경영<br>페북·유튜브</b></a></td>
 <td class="listwidth" id="redbackground">
- <a href="컴활정보처리.html" id="white"><b>허경영&트럼프</b></a></td>
+ <a href="컴활정보처리.html" id="white"><b>허경영·트럼프</b></a></td>
 <td class="listwidth" id="redbackground">
  <a href="mos.html" id="white"><b>허경영 관련서적</b></a></td>
 <td class="listwidth" id="redbackground">
