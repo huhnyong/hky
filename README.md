@@ -5,7 +5,7 @@
   <li><a href="허경영책.html"><font size="2">허경영 책 목록들(Books of Huh Kyung-young)</font></a></li>
 </ol>
 <audio src="m-flo_Miss You.mp3" controls autoplay></audio> 
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="UTF-8">
