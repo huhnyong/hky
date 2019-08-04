@@ -31,8 +31,8 @@ table{border-spacing:0px}
 .sizeSuperLarge{width:90%;height:120%;}
     @media screen and (max-width: 800px) {
     .tableheadandbody{border-color:black; align:center; margin-left: auto; margin-right: auto; width:100%; height:95%; }
-#white{color:white;text-align : center; line-height:145%; font-family:맑은 고딕; font-weight: bold; font-size:3vw}
-body{background-image: url('배경수정2.png');   
+#white{color:white;text-align : center; line-height:145%; font-family:맑은 고딕; font-weight: bold; font-size:3vw;}
+     body{background-image: url('배경수정2.png');}
     }
 </style>
 </head>
