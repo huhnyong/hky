@@ -17,7 +17,7 @@ a{ text-decoration:none }
 .audio-container{text-indent:24%;align:center;}
 .listfontsizecenter{ font-size:1.005vw; text-align:center;}
 .listfontsize{font-size:1.005vw; }
- #listfontsize{font-size:1.005vw; color:white;text-align:left;font-family:맑은 고딕;}
+ #listfontsize{font-size:1.005vw; color:white;text-align:left;font-family:맑은 고딕;font-weight: bold;}
 table{border-spacing:0px}
 .tableheadandbody{margin:none;border-color:white; margin-left: auto; margin-right: auto; width:52%; height:95%; }
 .centercontent{height:700px; max-width: 100%; width: 95%; overflow: auto; padding-left: 2.5%;padding-right: 2.5%;border-radius: 9px/9px;}
@@ -64,7 +64,7 @@ table{border-spacing:0px}
 </tr>
 <tr>
 <td class="listwidth" id="listfontsize" >
-기타 허경영 사이트 바로가기▶</td>
+  <div id="listfontsize">기타 허경영 사이트 바로가기▶</div></td>
 <td colspan="4" class="listwidth" >
 <ol>
 <li><a href="https://www.hky33.kr/" target="_blank" align="left"  id="white2">허경영 공식[클릭(click)]</a></li>
