@@ -18,6 +18,7 @@
       table {
         width: 100%;
       }
+  }
   
 #listfontsize{ font-size:1.0vw;}
 #textcenter{text-align : center;}
