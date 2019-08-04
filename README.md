@@ -64,7 +64,7 @@ table{border-spacing:0px}
 </tr>
 <tr>
 <td class="listwidth" >
-  <div id="listfontsize">기타 허경영 사이트 바로가기▶</div></td>
+  <a id="listfontsize">기타 허경영 사이트 바로가기▶</a></td>
 <td colspan="4" class="listwidth" >
 <ol>
 <li><a href="https://www.hky33.kr/" target="_blank" align="left"  id="white2">허경영 공식[클릭(click)]</a></li>
