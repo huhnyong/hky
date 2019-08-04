@@ -63,7 +63,7 @@ table{border-spacing:0px}
 <a href="https://www.youtube.com/channel/UCy3eNixQgJld165YDfRDRZg" target="_blank"><img class="sizeSmall" src="HKYTV 클릭.png"></a></div></td>
 </tr>
 <tr>
-<td class="listwidth" id="listfontsize" >
+<td class="listwidth" >
   <div id="listfontsize">기타 허경영 사이트 바로가기▶</div></td>
 <td colspan="4" class="listwidth" >
 <ol>
