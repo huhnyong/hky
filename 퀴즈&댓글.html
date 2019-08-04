@@ -1,0 +1,182 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=3.0,user-scalable=1.0">
+ <title>연습</title>
+
+<style>
+
+a{ text-decoration:none }
+.audio-container{text-indent:24%;align:center;}
+.listfontsizecenter{ font-size:1.005vw; text-align:center;}
+.listfontsizeleft{ font-size:1.005vw; text-align:left;}
+table{border-spacing:0px}
+.tableheadandbody{margin:none;border-color:white; margin-left: auto; margin-right: auto; width:52%; height:95%; }
+.centercontent{height:700px; max-width: 100%; width: 95%; overflow: auto; padding-left: 2.5%;padding-right: 2.5%;border-radius: 9px/9px;}
+.listwidth{border-right:none;background-color:red;margin:none;height:7.0%;width:10.35%; border:0.5px solid white; border-radius: 9px/9px;letter-spacing:0.3px;padding-left: 2%;padding-right: 2%;padding-top: 0.8%;padding-bottom: 0.8%;}
+#white{color:white;text-align:center; line-height:145%; font-family:맑은 고딕; font-weight: bold;}
+#white2{color:white;text-align:left; line-height:145%; font-family:맑은 고딕; font-weight: bold;}
+#whitebackground{background-color:white;}
+.tomatobackground{background-color:tomato;}
+.sizeSmall{width:80%; height:65%;}
+.sizeNormal{width:90%; height:75%;}
+.sizeLarge{width:95%;height:85%;}
+.sizeSuperLarge{width:90%;height:120%;}
+    @media screen and (max-width: 800px) {
+    .tableheadandbody{border-color:black; align:center; margin-left: auto; margin-right: auto; width:100%; height:95%; }
+#white{color:white;text-align : center; line-height:145%; font-family:맑은 고딕; font-weight: bold; font-size:3vw}
+body{background-image: url('배경수정2.png');   
+    }
+</style>
+</head>
+<body>
+
+<body background="배경수정.png">
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<div class="audio-container"> 
+<audio src="m-flo_Miss You.mp3" controls autoplay></audio> 
+</div>
+<br><br><br>
+
+<table class="tableheadandbody">
+<tr class="listfontsizecenter">
+<td class="listwidth">
+<a href="허경영홈.html"  id="white">허경영<br> 페북·유튜브</a></td>
+<td class="listwidth" >
+ <a href="허경영트럼프.html"  id="white">허경영·트럼프</a></td>
+<td class="listwidth">
+ <a href="허경영책.html"  id="white">허경영 관련서적</a></td>
+<td class="listwidth" >
+ <a href="허경영33공약.html"  id="white">허경영33공약</a></td>
+<td class="listwidth tomatobackground">
+ <a href="퀴즈&댓글.html"  id="white">퀴즈·댓글</a></td>
+</tr>
+
+<tr>
+<td colspan="5" class="listwidth" id="whitebackground">
+<div class="centercontent">
+<br><br>
+
+<h3>Q1)대한민국의 정치인 '허경영'은 한국의 역대 대통령 중 박근혜 전 대통령의 탄핵을 4년 전인 'ㅇㅇㅇㅇ'년에 이미 예언한 바 있다.
+다음 보기 중 'ㅇㅇㅇㅇ'에 들어갈 알맞은 년도는?(띄어쓰기 없이 쓰시오)</h3><br>
+----------------보기-----------------<br>
+2013 1990 2011 1980 2012<br>
+--------------------------------------<br>
+
+<input type="text" name="ans1">
+<input type="button" value="제출1" onclick="conf1();"/>
+
+<script>
+function conf1(){
+var answer1 = document.getElementsByName("ans1")[0].value;
+    if(answer1==="2012"){
+        alert('정답입니다');
+    } else {
+        alert('오답입니다');
+    }
+}
+</script>
+<br>
+<h3>Q2)허경영의 33공약 중에서, 국가의 1년예산 400조원 중 50%를 절약하여 국민전체(20세 이상)의 통장으로 1인당 매달 150만원씩 줘서
+ 부익부 빈익빈의 악순환을 멈추고 계층 갈등을 완화시키는 제도를 다음 보기 중에서 고르시오.(띄어쓰기 없이 쓸 것)</h3><br>
+----------------보기-----------------<br>
+지자체선거폐지제 수능시험폐지제 국민배당제 연애공영제 금융실명제폐지제<br>
+--------------------------------------<br>
+
+<input type="text" name="ans2">
+<input type="button" value="제출2" onclick="conf2();"/>
+
+<script>
+function conf2(){
+var answer2 = document.getElementsByName("ans2")[0].value;
+    if(answer2==="국민배당제"){
+        alert('정답입니다');
+    } else {
+        alert('오답입니다');
+    }
+}
+</script>
+<br>
+<h3>Q3)허경영의 33공약 중에서, 중소기업 청년 취업자에게 매월 100만원씩을 3년간 지원하며 또한 5년이상 근무자가 창업시 무담보, 무보증, 무이자, 3억원을 지원해 대기업 위주의 취업 경쟁을 바꾸어 청년창업을 키워나가며 청년취업은 국가책임제로 하여 취업때까지 생계비를 지원하는 내용의 혁명공약을 다음 보기 중에서 고르시오.(띄어쓰기 없이 쓸 것)</h3><br>
+----------------보기-----------------<br>
+배당혁명 노후혁명 결혼혁명 취업혁명 금융혁명<br>
+--------------------------------------<br>
+
+<input type="text" name="ans3">
+<input type="button" value="제출3" onclick="conf3();"/>
+
+<script>
+function conf3(){
+var answer3 = document.getElementsByName("ans3")[0].value;
+    if(answer3==="취업혁명"){
+        alert('정답입니다');
+    } else {
+        alert('오답입니다');
+    }
+}
+</script>
+<br>
+<h3>Q4)허경영은 자신의 강연에서, 자신은 하늘에서 왔으며 그 증거로 'ㅇㅇ테스트'를 새로운 사람이나 꾸준히 강연 들으러 온 사람들에게 선보인다. 이 'ㅇㅇ테스트'는 손가락의 검지와 엄지를 동그랗게 맞닿아서 모으고 있으면, '허경영'을 제외한 다른 사람이나 사물의 이름을 마음 속으로 생각하거나 입으로 말하고난 후, 다른 사람이 검지와 엄지를 떨어뜨리면 쉽게 떨어지나, '허경영'을 마음속으로 생각하거나 입으로 말하고 나면 어떤 이가 그 엄지와 검지 손가락을 서로 분리시키려고 시도해도 힘이 세져서 잘 떼어지지 않는 현상을 테스트하는 방법이다. 이 'ㅇㅇ테스트'에서 ㅇㅇ에 들어갈 알맞은 말을 다음 보기중에서 고르시오.</h3><br>
+----------------보기-----------------<br>
+달링 오링 파워 검지 엄지<br>
+--------------------------------------<br>
+
+<input type="text" name="ans4">
+<input type="button" value="제출4" onclick="conf4();"/>
+
+<script>
+function conf4(){
+var answer4 = document.getElementsByName("ans4")[0].value;
+    if(answer4==="오링"){
+        alert('정답입니다');
+    } else {
+        alert('오답입니다');
+    }
+}
+</script>
+<br><br><br><br>
+
+  방명록을 작성해주세요
+
+<div id="disqus_thread"></div>
+<script>
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://web1-2.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+</div></td>
+</tr>
+
+<tr>
+<td class="listwidth listfontsizeleft" id="white2">
+<a>기타 허경영 사이트 바로가기▶</a></td>
+<td colspan="4" class="listwidth" >
+<ol>
+
+<li><a href="https://www.hky33.kr/" target="_blank" align="left"  id="white2">허경영 공식[클릭(click)]</a></li>
+
+<li><a href="https://cafe.naver.com/huhkyungyoung" target="_blank" align="left"  id="white2">네이버 카페 '허토피아'(Huh topia)[클릭(click)]</a></li>
+
+</ol></td>
+</tr>
+</table>
+
+</body>
+</html>
